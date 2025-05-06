@@ -1,27 +1,40 @@
-# About Me
+# 👩‍💻 Mariela L. Aspe
 
-I am Mariela L. Aspe, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+Hi! I'm Mariela, a passionate developer with a knack for coding and database management. I thrive on solving complex problems and creating elegant solutions. My journey in tech began when I pursued a **BS in Information Technology** — and I haven’t looked back since!
 
-## Education
+---
 
-- **BS Information Technology**
-  New Era University
-  2023-Present
+## 🎓 Education
 
-## Certification
+**Bachelor of Science in Information Technology**  
+_New Era University_  
+_2022 – Present_
 
-- **[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://www.example.com)**
-- **[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://www.example.com)**
-- **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://www.example.com)**
-- **[SQL and Relational Databases 101](https://www.example.com)**
+---
 
-## Skill Sets
+## 📜 Certifications
 
-- **Programming**: Java, JavaScript
-- **Databases**: IBM DB2 Cloud
-- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://www.example.com)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://www.example.com)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://www.example.com)
+- [SQL and Relational Databases 101](https://www.example.com)
 
-## Contact Me
+---
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Email**: mariela.laspe@gmail.com
+## 🛠️ Skill Set
+
+**Programming Languages**  
+`Java` `JavaScript` `PHP` `Python`
+
+**Databases**  
+`IBM DB2 Cloud`
+
+**Tools & Technologies**  
+`Lucidchart` `Jaspersoft Studio` `Eclipse` `HTML` `CSS` `Bootstrap` `Laragon` `Figma` `Power BI` `MongoDB` `Android Studio`
+
+---
+
+## 📫 Contact Me
+
+- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **Email:** mariela.laspe@gmail.com
