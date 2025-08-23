@@ -31,7 +31,7 @@ Databases
 `IBM DB2 Cloud`
 
 Tools & Technologies  
-`Lucidchart` `Jaspersoft Studio` `Eclipse` `HTML` `CSS` `Bootstrap` `Laragon` `Figma` `Power BI` `MongoDB` `Android Studio`
+`Lucidchart` `Jaspersoft Studio` `Eclipse` `HTML` `CSS` `Bootstrap` `Laragon` `Figma` `Power BI` `MongoDB` `Android Studio` `PowerBi`
 
 ---
 
