@@ -1,6 +1,6 @@
 👩‍💻 Mariela L. Aspe
 
-Hi! I'm Mariela, a passionate developer with a knack for coding and database management. I thrive on solving complex problems and creating elegant solutions. My journey in tech began when I pursued a **BS in Information Technology** — and I haven’t looked back since!
+Hi! I'm Mariela, a passionate developer with a knack for coding and database management. I thrive on solving complex problems and creating elegant solutions. My journey in tech began when I pursued **BS in Information Technology** — and I haven’t looked back since!
 
 ---
 
